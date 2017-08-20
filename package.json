@@ -1,0 +1,18 @@
+{
+  "name": "elm-js-interop-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:base": "webpack-dev-server --config base/webpack.config.js"
+  },
+  "author": "boiyaa <boiyaa@hotmail.com>",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "elm-webpack-loader": "^4.3.1",
+    "html-webpack-plugin": "^2.30.1",
+    "path": "^0.12.7",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
