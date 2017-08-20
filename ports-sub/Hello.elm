@@ -20,7 +20,7 @@ update msg model =
             (newModel, Cmd.none)
 
 view model =
-    toString model |> Html.text
+    Html.text model
 
 main =
     Html.programWithFlags

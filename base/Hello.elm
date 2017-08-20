@@ -4,7 +4,7 @@ init =
     ("Hello, World!", Cmd.none)
 
 view model =
-    toString model |> Html.text
+    Html.text model
 
 main =
     Html.program
