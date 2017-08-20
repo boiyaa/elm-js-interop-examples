@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "helpful summary of your project, less than 80 characters",
-    "repository": "https://github.com/user/project.git",
+    "summary": "elm-js-interop-examples",
+    "repository": "https://github.com/boiyaa/elm-js-interop-examples.git",
     "license": "BSD3",
     "source-directories": [
         "."
