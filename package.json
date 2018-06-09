@@ -17,14 +17,14 @@
     "babel-loader": "^7.1.2",
     "babel-preset-react-app": "^3.0.2",
     "elm-webpack-loader": "^4.3.1",
-    "html-webpack-plugin": "^2.30.1",
+    "html-webpack-plugin": "^3.2.0",
     "path": "^0.12.7",
-    "webpack": "^3.5.5",
-    "webpack-dev-server": "^2.7.1"
+    "webpack": "^4.12.0",
+    "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
     "react-elm-state": "^0.2.1"
   }
 }
