@@ -1,5 +1,7 @@
 # elm-js-interop-examples
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/boiyaa/elm-js-interop-examples.svg)](https://greenkeeper.io/)
+
 ## Requirements
 
 * Node.js
